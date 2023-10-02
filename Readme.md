@@ -75,7 +75,6 @@ Currently, I am studying at Oracle Next Education, XAcademy and doing projects a
         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" width="40" height="40"/>&nbsp;
         
-    </div>
 ---
 
 ### 📊 My Stats :
