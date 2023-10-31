@@ -26,7 +26,7 @@ Currently, I am studying at Oracle Next Education, XAcademy and doing projects a
 
 ### 🧑‍💼 Projects:
 
-- **Listo Para Llevar:** [![Repository](https://img.shields.io/badge/ReadyToGo-GitHub-blue)](https://github.com/No-Country/s10-10-m-php-react-amazon) [![Website](https://img.shields.io/badge/ReadyToGo-Link-green)](https://listoparallevar.onrender.com/)
+- **Listo Para Llevar:** [![Repository](https://img.shields.io/badge/ListoParaLlevar-GitHub-blue)](https://github.com/No-Country/s10-10-m-php-react-amazon) [![Website](https://img.shields.io/badge/ListoParaLlevar-Link-green)](https://listoparallevar.onrender.com/)
     - Is a web application designed to connect businesses with surplus food products to consumers interested in purchasing these products at reduced prices. The tools used for this project include React Js, Material Tailwind, Axios, and Redux. It was developed as a project emulation with a team of UX/UI designers, PHP backend developers, and React frontend developers.
 
 - **Re House:** [![Repository](https://img.shields.io/badge/ReHouse-GitHub-blue)](https://github.com/No-Country/c12-g21-m-java-react) [![Website](https://img.shields.io/badge/ReHouse-Link-green)](https://rehouseweb.onrender.com/)
