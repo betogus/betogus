@@ -6,7 +6,7 @@ However, after graduating, I became interested in the world of programming, so I
 Currently, I am studying at Oracle Next Education, XAcademy and doing projects at No Country. Also, I've an intermediate level of English. Until I can finish my courses, my goal is to be able to work as a developer from now on.</p>
    
 
-[![Ver mi portfolio](https://img.shields.io/badge/Ver%20mi%20portfolio-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://betogus.github.io/portfolio/)
+[![Ver mi portfolio](https://img.shields.io/badge/Ver%20mi%20portfolio-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://gustavo-torres-portfolio.netlify.app/)
 <a href="https://github.com/betogus/portfolio"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/betogus2009/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:betogus2009@gmail.com/"><img src="https://img.shields.io/badge/gmail%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
